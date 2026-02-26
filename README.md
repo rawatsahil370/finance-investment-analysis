@@ -112,7 +112,7 @@ _Dashboard shows:_
 - _Age group segmentation_
 - _Interactive slicers for dynamic filtering_
 
-  ![Dashboard Preview](/Dashboard Image.png)
+  ![Dashboard Preview](/Screenshot 2026-02-14 093046.png.png)
 ---
 <h2><a class="anchor" id="Key Insights"></a>💡 Key Insights</h2>
 
