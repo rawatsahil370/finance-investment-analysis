@@ -113,10 +113,12 @@ _ Dashboard shows:_
 <h2><a class="anchor" id="Key Insights"></a>💡 Key Insights</h2>
 
 _ Key Insights:_
-- _Customers on month-to-month contracts have the highest churn rate_
-- _Lower tenure customers are more likely to churn_
- - _Higher monthly charges are associated with increased churn risk_
- - _Long-term contracts significantly improve customer retention_
+- _Mutual Funds and Gold are among the most preferred investment instruments._
+- _Male participants show higher equity market participation._
+ - _Most investors prefer medium-term (3–5 years) investment duration_
+ - _Returns and wealth creation are primary investment motivations_
+ - _Financial consultants are a major source of investment decisions_
+ - _Younger investors tend to take relatively higher risk compared to older groups_
   
 ---
 <h2><a class="anchor" id="author--contact"></a>👤 Author & Contact</h2>
