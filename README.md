@@ -20,7 +20,7 @@ _An end-to-end data analytics project analyzing investor behavior, investment pr
 
 _This project focuses on analyzing financial investment patterns of individuals across different investment instruments such as Mutual Funds, Equity Market, Government Bonds, Debentures, Fixed Deposits, PPF, and Gold._
 
-The objective is to understand investor preferences, demographic trends, risk appetite, and key factors influencing investment decisions.._
+_The objective is to understand investor preferences, demographic trends, risk appetite, and key factors influencing investment decisions.._
 
 ---
 <h2><a class="anchor" id="business-problem"></a>🎯 Business Problem</h2>
@@ -85,7 +85,7 @@ _Key tasks performed in Python:_
 - _Data cleaning and preprocessing_
 - _Handling missing and inconsistent values_
 - _Univariate and bivariate analysis_
-- _Churn distribution analysis_
+- _Gender-wise and age-wise segmentation_
 - _Tenure, contract, and payment method impact analysis_
 - _Visualizations using bar charts, count plots, and histograms_
 
@@ -93,26 +93,31 @@ _Key tasks performed in Python:_
 
 _The SQL file includes business-focused queries such as:_
 
-- _Overall churn rate calculation_
-- _Churn rate by contract type_
+- _Gender-based investment comparison_
+- _Tenure-based investment segmentation_
 - _Churn analysis by payment method_
-- _Average charges comparison (churned vs retained customers)_
-- _Tenure-based churn segmentation_
+- _Purpose-driven investment distribution_
+- _Source of information analysis_
 ---
 <h2><a class="anchor" id="dashboard"></a>📊 Dashboard</h2>
 
-_ Dashboard shows:_
-- _KPI cards (Total Customers, Churned Customers, Churn Rate)_
-- _Churn analysis by contract type and tenure_
-- _Monthly charges vs churn comparison_
-- _Service-wise churn distribution_
-- _Interactive slicers for deep-dive analysis_
+_Dashboard shows:_
+
+- _KPI Cards (Total Participants, Mutual Funds, Equity Market, Gold, etc.)_
+- _Investment distribution by type_
+- _Gender-based investment split_
+- _Investment duration analysis_
+- _Purpose of investment analysis_
+- _Source of financial advice_
+- _Age group segmentation_
+- _Interactive slicers for dynamic filtering_
 
   ![Dashboard Preview](/Dashboard Image.png)
 ---
 <h2><a class="anchor" id="Key Insights"></a>💡 Key Insights</h2>
 
-_ Key Insights:_
+ _Key Insights:_
+ 
 - _Mutual Funds and Gold are among the most preferred investment instruments._
 - _Male participants show higher equity market participation._
  - _Most investors prefer medium-term (3–5 years) investment duration_
